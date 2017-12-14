@@ -24,4 +24,8 @@ add 7th line
 =======
 
 add new lin in dev 
+<<<<<<< HEAD
 add 2th in master
+=======
+add 2th in dev
+>>>>>>> dev
