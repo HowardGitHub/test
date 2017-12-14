@@ -13,4 +13,3 @@ third line
 
 commit 2
 
-add fourth line
