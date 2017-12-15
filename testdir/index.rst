@@ -10,9 +10,9 @@ Welcome to test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   testdir/index
-   helloworld
-   helloworld2
+
+   hellow
+
 Indices and tables
 ==================
 
